@@ -1,0 +1,10 @@
+Na lokalním počítači je potřeba mít nainstalováno prostředí Node.js, dostupné z https://nodejs.org/en/ a balíčkovací manažer yarn, dostupný z 
+https://classic.yarnpkg.com/lang/en/docs/install.
+
+Pomocí příkazového řádku vstupte do kořenového adresáře. Příkazem 'yarn install' se nainstalují požadované závislosti. Balíčkovací manažer yarn umožňuje pracovat s jednotlivými aplikacemi zvlášť pomocí klíčového slova workspace. Jednotlivé aplikace lze tedy spustit pomocí příkazu 'yarn workspace NAZEV_BALICKU' start. Pro vystavění aplikace do statických souborů použijte příkaz 'yarn workspace NAZEV_BALICKU build'.
+
+Za NAZEV_BALICKU je možné dosadit: 
+• efektivni-stredni
+• meritko-zesileni-posunuti
+• fourierova-rada
+• interpolace
